@@ -2,4 +2,7 @@
 # Python_tasks
 > [!NOTE]
 > ## [Numpy and Pandas](Numpy_and_Pandas_.ipynb):-
-> Pandas is most commonly used for data wrangling and data manipulation purposes, and NumPy objects are primarily used to create arrays or matrices that can be applied to DL or ML models. Whereas Pandas is used for creating heterogenous, two-dimensional data objects, NumPy makes N-dimensional homogeneous objects
+> ### NumPy
+> stands for "Numerical Python". It is a library that provides support for large, multi-dimensional arrays and matrices, along with a large collection of mathematical functions to operate on these arrays.
+> ### Pandas
+> is a library that builds on top of NumPy and provides data structures and operations for working with structured (tabular, multidimensional, potentially heterogeneous) and time series data.
