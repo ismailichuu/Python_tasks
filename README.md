@@ -1,7 +1,7 @@
 
 # Python_tasks
 
-## [Basic Programming](Basic Programming_.ipynb):-
+## [Basic programming](Basic Programming .ipynb):-
 
 ## [Numpy and Pandas](Numpy_and_Pandas_.ipynb):-
 ### NumPy
