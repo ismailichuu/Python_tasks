@@ -11,3 +11,4 @@ stands for "Numerical Python". It is a library that provides support for large, 
 is a library that builds on top of NumPy and provides data structures and operations for working with structured (tabular, multidimensional, potentially heterogeneous) and time series data.
 ## [Matplotlib](Matplotlib.ipynb):-
 Matplotlib is a Python library for data visualization. It provides a wide range of functionality for creating charts and plots, including line plots, scatter plots, histograms, bar charts, pie charts, and more. Matplotlib is also highly customizable, allowing users to create visualizations that are tailored to their specific needs.
+![2
