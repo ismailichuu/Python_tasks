@@ -5,6 +5,7 @@
 - Basic calculations
 - Basic Built-in functions
 ## [Functions](Functions.ipynb):-
+A function is a block of organized, reusable code that performs a specific task. It takes inputs, processes them, and can optionally return an output. Functions help in breaking down large programs into smaller, manageable parts, making the code more readable, maintainable, and reusable.
 ## [Numpy and Pandas](Numpy_and_Pandas_.ipynb):-
 ### NumPy
 stands for "Numerical Python". It is a library that provides support for large, multi-dimensional arrays and matrices, along with a large collection of mathematical functions to operate on these arrays.
